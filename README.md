@@ -1,8 +1,9 @@
-# Morgage Loan Default - A Classification Model
+# A Classification Model for Morgage Loan Default
 
-The dataset consists of 148,670 records, representing unique loans in 2019.
+The dataset consists of 148,670 records, representing 148,670 unique loans in 2019.
 
-The workbook features:
+Outline:
 - EDA
-- Model development for default detection
+- Default prediction model development
 - Model validation
+- Conclusions
